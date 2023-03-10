@@ -1,0 +1,1 @@
+var var1: kurz! var2: zeichenfolge! beginnen aufschreiben("2")! erhalten(var1)! wenn (A > B) dann erhalten(var1)! A = "2" ende

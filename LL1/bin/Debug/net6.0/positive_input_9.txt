@@ -1,0 +1,1 @@
+beginnen wenn(A <= B)dann erhalten(someVar) ende

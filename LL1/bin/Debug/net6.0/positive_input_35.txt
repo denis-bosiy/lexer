@@ -1,0 +1,1 @@
+var var1: zeichenfolge! beginnen aufschreiben(2)! erhalten(var1)! wenn (A == B) dann A = B! A = B ende

@@ -1,0 +1,1 @@
+var varName: ganzzahl!beginnen ende

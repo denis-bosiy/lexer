@@ -1,0 +1,1 @@
+var var1: zeichenfolge! beginnen aufschreiben(2)! erhalten(var2)! wenn (var1 >= var2) || (A == B) dann aufschreiben("shit1")! A = B ende

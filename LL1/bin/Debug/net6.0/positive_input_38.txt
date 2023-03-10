@@ -1,0 +1,1 @@
+var var1: kurz! beginnen aufschreiben(var1)! erhalten(var1)! wenn (A > B) dann aufschreiben(2)! A = 2 ende

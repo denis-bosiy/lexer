@@ -1,0 +1,1 @@
+beginnen aufschreiben("some string") ende

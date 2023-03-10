@@ -1,0 +1,1 @@
+var var1: ganzzahl!   var2: kurz! var3: zeichenfolge! beginnen aufschreiben(var1)! erhalten(var2)!   wenn (var1>var2) dann var1 = var2   ende

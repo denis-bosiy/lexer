@@ -1,0 +1,1 @@
+var var1: ganzzahl! var2: kurz! beginnen aufschreiben(var1)! erhalten(var2)! wenn (A > B) dann A = B! A = 2 ende

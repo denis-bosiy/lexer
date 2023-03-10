@@ -1,0 +1,1 @@
+var,beginnen,ganzzahl,kurz,zeichenfolge,wenn,aufschreiben,erhalten,ende,dann,<=,>=,==,!=,&&,||

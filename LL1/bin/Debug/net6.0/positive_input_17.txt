@@ -1,0 +1,1 @@
+var var1: kurz! beginnen aufschreiben("123")! erhalten(shit1)! wenn (A > B) || (A < B) dann erhalten(var1)! A = B ende

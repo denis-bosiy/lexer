@@ -1,0 +1,1 @@
+var var1: ganzzahl! var2: zeichenfolge! beginnen AUFSCHREIBEn(2)! erhalten(var1)! wenn (A > B) dann erhalten(a2)! A = "2" ende

@@ -1,0 +1,1 @@
+beginnen aufschreiben(var1)! erhalten(var1)! wenn (A > b) dann erhalten(var1)! A = "shit2" ende

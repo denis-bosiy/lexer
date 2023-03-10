@@ -1,0 +1,1 @@
+beginnen wenn(A>B)dann aufschreiben("poem by Michael Jordan") ende
